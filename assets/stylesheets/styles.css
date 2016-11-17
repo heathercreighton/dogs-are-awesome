@@ -1,0 +1,22 @@
+#content {
+	width: 600px;
+  background: beige;
+  border: 20px solid tomato;
+  padding: 40px; /* Adds 20px of space to all sides */
+  margin: 20px auto;  /* Adds 20px to the top & bottom & centers left/right*/ 
+
+}
+
+img {
+	width:200px;
+	float:right;
+
+}
+.footer {
+width:400px;
+border: 10px solid pink;
+padding:20px;
+background:navy;
+color: white;
+font-size: 12px
+}

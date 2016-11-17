@@ -1,6 +1,6 @@
 body {background-color: beige;}
 
-h1 {text-align: center;
+.jumbotron {text-align: center;
 		font-family: fantasy;
 		background-color: #649961;
 
@@ -9,7 +9,7 @@ h1 {text-align: center;
 h1 ul li{display: inline;}
 
 h2 {text-align: center;
-		font-family:serif;
+		font-family:fantasy;
 
 		}
 
@@ -19,8 +19,37 @@ p {font-size: 20px;}
 			font-style: italic;
 			font-size: 25px;
 }
+#back{background-color: #666557;
+			color: white;
+			font-size: 90px;
+			height:60px;
 
 
+		}
+#border{
+	border:5px solid #666557;
+}
+
+#content{ padding:30px;
+
+}
+
+#intro{
+	font-family:fantasy;
+	font-size:25px;
+}
+
+
+.panel-title{
+	font-family:fantasy;
+	font-size:25px;
+	color:#666557;
+
+}
+.panel-body{
+background-color:#666557;
+
+}
 .pics {text-align: center;
 
 				}	
@@ -28,10 +57,21 @@ p {font-size: 20px;}
 .text {font-size: 25px;
 				font-family: fantasy;}			
 
-div p img {width: 500px;}	
+div p img {width: 300px;
+					 height:200px;
+					}	
 
 .fonts {font-family: cursive;
 				font-size: 30px;
 
 
-}			
+}
+p a {color: white;
+			background-color:#666557;
+			font-family: fantasy;
+				
+
+}	
+#nav {
+	background-color:#666557;
+}
